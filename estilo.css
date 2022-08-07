@@ -1,0 +1,10 @@
+.titulo{
+    display: flex;
+    padding: 1px;
+}
+.foto{
+    padding-left: 15px;
+    padding-top: 5px;
+    position: relative;
+}
+
