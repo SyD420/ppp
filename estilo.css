@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .titulo{
     display: flex;
     padding: 1px;
@@ -6,5 +11,33 @@
     padding-left: 15px;
     padding-top: 5px;
     position: relative;
+}
+.conteiner{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    justify-content:space-between;
+    margin-top: px;
+    
+}
+.ft{
+    border: solid 2px;
+}
+.titl{
+    font-size: inherit;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.tilte-block{
+    min-width: 900px;
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    bottom: auto;
+    left: auto;
+    width: 100%;
 }
 
